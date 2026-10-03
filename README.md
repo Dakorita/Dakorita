@@ -22,7 +22,6 @@
 
 ## 👾 Sobre mí
 
-```csharp
 public class Dakota : GameDeveloper
 {
     public string Ubicacion  = "Gran Canaria 🌴";
@@ -39,7 +38,7 @@ public class Dakota : GameDeveloper
         if (HayGameJam()) Participar();
     }
 }
-```
+
 
 - 💼 Trabajo en **Sparkling Tech Solutions**.
 - 🎓 Soy **docente de programación de videojuegos** en **Unity** y **Unreal Engine**.
@@ -120,10 +119,10 @@ public class Dakota : GameDeveloper
 
 <!-- Rellena las URLs y borra las que no uses -->
 <p align="center">
-  <a href="https://www.artstation.com/TU_USUARIO"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
-  <a href="https://TU_USUARIO.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
+ 
+  <a href="https://dakota-m.itch.io"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dakota-molina/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dakotamolina1994@gmail.com"><img src="https://img.shields.io/badge/Email-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
