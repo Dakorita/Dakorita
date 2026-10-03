@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/🎮-Game%20Dev-7F5AF0?style=flat-square" />
   <img src="https://img.shields.io/badge/🧑‍🏫-Docente-FF8906?style=flat-square" />
   <img src="https://img.shields.io/badge/✨-Sparkling%20Tech%20Solutions-E53170?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=Dakorita&style=flat-square&color=7F5AF0&label=visitas" />
 </p>
 
 ---
