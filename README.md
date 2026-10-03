@@ -21,7 +21,7 @@
 ---
 
 ## 👾 Sobre mí
-
+```csharp
 public class Dakota : GameDeveloper
 {
     public string Ubicacion  = "Gran Canaria 🌴";
@@ -38,8 +38,7 @@ public class Dakota : GameDeveloper
         if (HayGameJam()) Participar();
     }
 }
-
-
+```
 - 💼 Trabajo en **Sparkling Tech Solutions**.
 - 🎓 Soy **docente de programación de videojuegos** en **Unity** y **Unreal Engine**.
 - 💜 Participo en **Las Chicas También Juegan**, una iniciativa por la inclusión de las mujeres en el gaming.
