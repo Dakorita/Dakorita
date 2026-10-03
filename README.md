@@ -1,6 +1,6 @@
 <!-- Banner superior: cambia text, desc y color a tu gusto (capsule-render.vercel.app) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Dakota%20Molina&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Game%20Dev%20%C2%B7%20Unity%20%26%20Unreal%20%C2%B7%20Docencia&descAlignY=58&descSize=18" alt="Dakota Molina" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,100:2CB67D&height=200&section=header&text=Dakota%20Molina&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Game%20Dev%20%C2%B7%20Unity%20y%20Unreal%20%C2%B7%20Docencia&descAlignY=58&descSize=18" alt="Dakota Molina" />
 </p>
 
 <!-- Texto animado: edita las líneas separadas por ; en el parámetro lines -->
